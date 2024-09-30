@@ -1,6 +1,6 @@
 # ma-crossover-algo
 
-An algorithmic project that I'm currently working on!
+An algorithmic trading project that I'm currently working on!
 
 Makes use of Simple Moving Average Crossover Strategy to generate buy and sell signals.
 
@@ -18,7 +18,7 @@ To use the interactive UI, follow these steps:
 1. **Install Required Libraries**:
     Ensure you have the necessary libraries installed. You can install them using pip:
     ```bash
-    pip install pandas numpy matplotlib ipywidgets
+    pip install pandas numpy matplotlib yfinance
     ```
 
 2. **Run the Jupyter Notebook**:
