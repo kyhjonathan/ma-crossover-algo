@@ -27,6 +27,6 @@ To use the interactive UI, follow these steps:
 3. **Input Desired Values**:
     Use the widgets to input your desired values. The plot will update automatically based on your inputs.
 
-![alt text](image.png)
+![alt text](images/screenshot_example.png)
 
 For current version, to analyse other stocks and dates, please change variables to desired stock and dates as shown in the screenshot below.
