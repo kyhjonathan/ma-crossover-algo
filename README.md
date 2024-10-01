@@ -13,7 +13,7 @@ Future Implementations:
 
 4. Benchmarking against an index (S&P 500) to compare its relative performance.
 
-To use the interactive UI, follow these steps:
+To run the Jupyter Notebook, follow these steps:
 
 1. **Install Required Libraries**:
     Ensure you have the necessary libraries installed. You can install them using pip:
@@ -27,6 +27,6 @@ To use the interactive UI, follow these steps:
 3. **Input Desired Values**:
     Use the widgets to input your desired values. The plot will update automatically based on your inputs.
 
-![alt text](images/screenshot_example.png)
 
 For current version, to analyse other stocks and dates, please change variables to desired stock and dates as shown in the screenshot below.
+![alt text](images/screenshot_example.png)
